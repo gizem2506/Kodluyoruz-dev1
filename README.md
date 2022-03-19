@@ -1,2 +1,2 @@
 # Kodluyoruz-dev1
-Kodluyoruz Eğitiminde iilk öğrendiğim bilgiler ile yaptığım ödev.
+Kodluyoruz Eğitiminde ilk öğrendiğim bilgiler ile yaptığım ödev.
